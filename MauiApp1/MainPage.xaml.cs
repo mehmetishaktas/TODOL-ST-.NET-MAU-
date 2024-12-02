@@ -9,15 +9,13 @@ namespace MauiApp1
 {
     public partial class MainPage : ContentPage
     {
-        TodoViewModel view=new TodoViewModel();
-        
+        TodoViewModel view = new TodoViewModel();
+
         public MainPage()
         {
             InitializeComponent();
             BindingContext = view;
         }
-
-        
     }
-
 }
+

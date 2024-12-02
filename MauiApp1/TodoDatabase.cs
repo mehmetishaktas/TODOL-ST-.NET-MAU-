@@ -31,6 +31,11 @@ namespace TodoApp
             }
         }
 
+        public Task<int> UpdateItemAsync(TodoItem item)
+        {
+            return _database.UpdateAsync(item);
+        }
+
         public Task<int> DeleteItemAsync(TodoItem item)
         {
             return _database.DeleteAsync(item);

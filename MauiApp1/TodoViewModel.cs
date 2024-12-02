@@ -42,6 +42,7 @@ namespace TodoApp
             var items = await database.GetItemsAsync();
             foreach (var item in items)
             {
+                item.PropertyChanged += async (s, e) => await UpdateTask((TodoItem)s);
                 Tasks.Add(item);
             }
         }
@@ -52,9 +53,15 @@ namespace TodoApp
             {
                 var newTask = new TodoItem { Title = NewTaskTitle };
                 await database.SaveItemAsync(newTask);
+                newTask.PropertyChanged += async (s, e) => await UpdateTask((TodoItem)s);
                 Tasks.Add(newTask);
                 NewTaskTitle = string.Empty;
             }
+        }
+
+        private async Task UpdateTask(TodoItem task)
+        {
+            await database.UpdateItemAsync(task);
         }
 
         private async Task DeleteTask(TodoItem task)

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|c:\\users\\mehmet ishak\\source\\repos\\mauiapp1\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|c:\\users\\mehmet ishak\\source\\repos\\mauiapp1\\mauiapp1\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\todoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|c:\\users\\mehmet ishak\\source\\repos\\mauiapp1\\mauiapp1\\tododatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\tododatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|c:\\users\\mehmet ishak\\source\\repos\\mauiapp1\\mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{435EEBEB-BD3F-4F0A-BD5D-E8E56EC26C36}|MauiApp1\\MauiApp1.csproj|c:\\users\\mehmet ishak\\source\\repos\\mauiapp1\\mauiapp1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,45 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TodoDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoDatabase.cs",
-              "RelativeDocumentMoniker": "MauiApp1\\TodoDatabase.cs",
-              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoDatabase.cs",
-              "RelativeToolTip": "MauiApp1\\TodoDatabase.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T15:57:42.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoItem.cs",
-              "RelativeDocumentMoniker": "MauiApp1\\TodoItem.cs",
-              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoItem.cs",
-              "RelativeToolTip": "MauiApp1\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T15:55:56.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "TodoViewModel.cs",
               "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoViewModel.cs",
               "RelativeDocumentMoniker": "MauiApp1\\TodoViewModel.cs",
               "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoViewModel.cs",
               "RelativeToolTip": "MauiApp1\\TodoViewModel.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAAEUAAABSAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:09:59.035Z",
+              "WhenOpened": "2024-12-02T18:54:45.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoDatabase.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\TodoDatabase.cs",
+              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoDatabase.cs",
+              "RelativeToolTip": "MauiApp1\\TodoDatabase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:54:34.043Z",
               "EditorCaption": ""
             },
             {
@@ -79,22 +66,35 @@
               "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\MainPage.xaml.cs",
               "RelativeToolTip": "MauiApp1\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:04:44.435Z",
+              "WhenOpened": "2024-12-02T18:43:11.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\MainPage.xaml",
               "RelativeDocumentMoniker": "MauiApp1\\MainPage.xaml",
               "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\MainPage.xaml",
               "RelativeToolTip": "MauiApp1\\MainPage.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T20:20:40.545Z",
+              "WhenOpened": "2024-12-02T18:31:37.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoItem.cs",
+              "RelativeDocumentMoniker": "MauiApp1\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\mehmet ishak\\source\\repos\\MauiApp1\\MauiApp1\\TodoItem.cs",
+              "RelativeToolTip": "MauiApp1\\TodoItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:28:09.874Z",
               "EditorCaption": ""
             }
           ]
