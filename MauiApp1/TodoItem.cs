@@ -9,7 +9,7 @@ namespace TodoApp
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
         public string Title { get; set; }
-
+        public string Category { get; set; }  // Kategori alanı eklendi
         private bool isCompleted;
         public bool IsCompleted
         {
